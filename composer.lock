@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "8625196cc6b59b9dd4768456ec5a8024",
+    "content-hash": "c80d721f097e8b1afe05a94062b9ebb3",
     "packages": [
         {
             "name": "ampproject/amp-toolbox",
-            "version": "0.11.2",
+            "version": "0.11.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/ampproject/amp-toolbox-php.git",
-                "reference": "8fa158845c980437831397100ca7133eee76c61d"
+                "reference": "56c812508f5ebe538036d75cf0c21de094b316d3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ampproject/amp-toolbox-php/zipball/8fa158845c980437831397100ca7133eee76c61d",
-                "reference": "8fa158845c980437831397100ca7133eee76c61d",
+                "url": "https://api.github.com/repos/ampproject/amp-toolbox-php/zipball/56c812508f5ebe538036d75cf0c21de094b316d3",
+                "reference": "56c812508f5ebe538036d75cf0c21de094b316d3",
                 "shasum": ""
             },
             "require": {
@@ -30,7 +30,7 @@
             },
             "require-dev": {
                 "civicrm/composer-downloads-plugin": "^2.1 || ^3.0",
-                "dealerdirect/phpcodesniffer-composer-installer": "^0.7.1",
+                "dealerdirect/phpcodesniffer-composer-installer": "^0.7.1 || ^1.0.0",
                 "ext-zip": "*",
                 "mikey179/vfsstream": "^1.6",
                 "php-parallel-lint/php-parallel-lint": "^1.2",
@@ -76,9 +76,9 @@
             "description": "A collection of AMP tools making it easier to publish and host AMP pages with PHP.",
             "support": {
                 "issues": "https://github.com/ampproject/amp-toolbox-php/issues",
-                "source": "https://github.com/ampproject/amp-toolbox-php/tree/0.11.2"
+                "source": "https://github.com/ampproject/amp-toolbox-php/tree/0.11.3"
             },
-            "time": "2022-05-19T09:49:09+00:00"
+            "time": "2023-02-07T23:27:03+00:00"
         },
         {
             "name": "cweagans/composer-patches",
